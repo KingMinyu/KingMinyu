@@ -1,9 +1,6 @@
 # Hi there, I'm Minyu! 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=Backend+Developer" alt="Typing SVG" />
-</p>
-<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=600&lines=%EB%8A%90.%EC%A2%8B.+BE+Developer;Focusing+on+the+essentials" alt="Typing SVG" />
 </p>
 <div align="center">
