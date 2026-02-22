@@ -28,6 +28,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=FF4500&center=true&vCenter=true&width=600&lines=Always+learning,+Always+debugging.+🔥" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=1000&pause=3000&color=000000&background=FF76244F&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5Always+learning%2C+Always+debugging.%F0%9F%94%A5)](https://git.io/typing-svg)
