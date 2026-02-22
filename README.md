@@ -1,7 +1,7 @@
 # Hi there, I'm Minyu! 👋 
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=35&pause=1000&color=F8F8F2&width=600&lines=%EB%8A%90.%EC%A2%8B.+BE+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=35&pause=1000&color=00BFFF&width=600&lines=%EB%8A%90.%EC%A2%8B.+BE+Developer+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://github.com/KingMinyu/KingMinyu/blob/output/github-snake.svg" alt="Snake animation" />
