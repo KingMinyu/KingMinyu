@@ -1,8 +1,7 @@
 # Hi there, I'm Minyu! 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jua&size=35&pause=1000&color=00BFFF&width=600&lines=%EB%8A%90.%EC%A2%8B.+BE+Developer+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=60&duration=1000&pause=3000&color=000000&background=FF762400&center=true&vCenter=true&width=800&lines=in+my+backend+era+%F0%9F%92%AB" alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://github.com/KingMinyu/KingMinyu/blob/output/github-snake.svg" alt="Snake animation" />
 </div>
