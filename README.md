@@ -29,5 +29,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&text=Always%20learning,%20Always%20debugging.&fontSize=25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=FF4500&center=true&vCenter=true&width=600&lines=Always+learning,+Always+debugging.+🔥" alt="Typing SVG" />
 </p>
