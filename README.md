@@ -19,4 +19,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
+
+### 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingMinyu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&text=Always%20learning,%20Always%20debugging.&fontSize=25" />
+</p>
