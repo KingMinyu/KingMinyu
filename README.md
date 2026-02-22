@@ -26,8 +26,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingMinyu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=1000&pause=3000&color=000000&background=FF76244F&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5Always+learning%2C+Always+debugging.%F0%9F%94%A5)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=1000&pause=3000&color=000000&background=FF76244F&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5Always+learning%2C+Always+debugging.%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
 </p>
