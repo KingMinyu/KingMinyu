@@ -28,4 +28,6 @@
 </p>
 
 ---
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=1000&pause=3000&color=000000&background=FF76244F&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5Always+learning%2C+Always+debugging.%F0%9F%94%A5)](https://git.io/typing-svg)
+</p>
